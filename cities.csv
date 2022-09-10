@@ -1,0 +1,9 @@
+source,dest,dist
+Jaipur,Bikaner,334
+Jaipur,Ajmer,83
+Jaipur,Tonk,101
+Ajmer,Tonk,161
+Ajmer,Kota,132
+Tonk,Kota,41
+Tonk,Bikaner,316
+Bikaner,Kota,475
